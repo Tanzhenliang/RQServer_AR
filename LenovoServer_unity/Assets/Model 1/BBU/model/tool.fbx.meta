@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 309aff76b053e574ca59eacba887dd94
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: banqian
+    100002: dao
+    100004: dianzhuan1
+    100006: HandRing1
+    100008: HandRing2
+    100010: HandRing3
+    100012: jiaodai
+    100014: pPipe11
+    100016: pPipe12
+    100018: qianzi
+    100020: //RootNode
+    100022: Tool_Screwdriver_C
+    100024: Tool_Screwdriver_S
+    100026: wanxianqian1
+    400000: banqian
+    400002: dao
+    400004: dianzhuan1
+    400006: HandRing1
+    400008: HandRing2
+    400010: HandRing3
+    400012: jiaodai
+    400014: pPipe11
+    400016: pPipe12
+    400018: qianzi
+    400020: //RootNode
+    400022: Tool_Screwdriver_C
+    400024: Tool_Screwdriver_S
+    400026: wanxianqian1
+    2300000: banqian
+    2300002: dao
+    2300004: dianzhuan1
+    2300006: HandRing1
+    2300008: HandRing2
+    2300010: HandRing3
+    2300012: pPipe11
+    2300014: pPipe12
+    2300016: qianzi
+    2300018: Tool_Screwdriver_C
+    2300020: Tool_Screwdriver_S
+    2300022: wanxianqian1
+    3300000: banqian
+    3300002: dao
+    3300004: dianzhuan1
+    3300006: HandRing1
+    3300008: HandRing2
+    3300010: HandRing3
+    3300012: pPipe11
+    3300014: pPipe12
+    3300016: qianzi
+    3300018: Tool_Screwdriver_C
+    3300020: Tool_Screwdriver_S
+    3300022: wanxianqian1
+    4300000: dao
+    4300002: wanxianqian1
+    4300004: pPipe11
+    4300006: pPipe12
+    4300008: HandRing1
+    4300010: dianzhuan1
+    4300012: banqian
+    4300014: qianzi
+    4300016: Tool_Screwdriver_C
+    4300018: Tool_Screwdriver_S
+    4300020: HandRing2
+    4300022: HandRing3
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 709ca68fd15be784d81d20f55c202aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn11
+    second: {fileID: 2100000, guid: 117daa1344a0f8b47bb6b796e5448da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn13
+    second: {fileID: 2100000, guid: d7803171b92b3844cb6f2ed081f8a0ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn14
+    second: {fileID: 2100000, guid: f6e2a74d41ec2b64caafc64de249d27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn15
+    second: {fileID: 2100000, guid: 4daee10a0ed8a56429e933f2920de349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn16
+    second: {fileID: 2100000, guid: a7f84cb54d406964f819d3eb4914f85a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn17
+    second: {fileID: 2100000, guid: 7081bbe87ecbc3d46918bfadb7a2e716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn3
+    second: {fileID: 2100000, guid: f4a8270eb5140ee4cbae8c7ba2cd80d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_blinn4
+    second: {fileID: 2100000, guid: 969fcb4a9def6d449a7ad97512708e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert177
+    second: {fileID: 2100000, guid: 5a26aa153dd747c47a2449ed85faba04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert179
+    second: {fileID: 2100000, guid: b84bf4c0ff49bc94bacedd54e5e93395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert180
+    second: {fileID: 2100000, guid: afbafa53381530c4687adea8919a517d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert182
+    second: {fileID: 2100000, guid: 3cfe33ba298f6c047aa709a45b25ed1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert183
+    second: {fileID: 2100000, guid: 823c883ddb0b4584b83c0e82bb395782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert184
+    second: {fileID: 2100000, guid: 1dbe1c17cf865c24bb2ee65099e047ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert185
+    second: {fileID: 2100000, guid: 4ee2e15443333214495b54eb47473982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert186
+    second: {fileID: 2100000, guid: 916f0dc613122e34e81020374136c541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert187
+    second: {fileID: 2100000, guid: 6e73824a18fa65e41ab1f5e78854d709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_lambert188
+    second: {fileID: 2100000, guid: 969799accd84c7d4ba84b5c096b065e7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

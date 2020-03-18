@@ -1,0 +1,1362 @@
+fileFormatVersion: 2
+guid: 78eb198b014784b44b59ae29512292ac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anniu
+    100002: anniu 1
+    100004: anniu 2
+    100006: anniu1
+    100008: anniu2
+    100010: chuankou
+    100012: CPU
+    100014: daoliufengzhao
+    100016: daoliufengzhao 1
+    100018: daoliufengzhao 2
+    100020: daoliufengzhao 3
+    100022: daoliufengzhao1
+    100024: daoliufengzhao2
+    100026: daoliufengzhao3
+    100028: daoliufengzhao4
+    100030: dianyuanmokuai
+    100032: dianyuanmokuai1
+    100034: dianyuanmokuai2
+    100036: diaoliufengzhao1
+    100038: diaoliufengzhao1 1
+    100040: diaoliufengzhao1 2
+    100042: dizuo
+    100044: group56
+    100046: guangqu
+    100048: guangqu 1
+    100050: houmian
+    100052: jiekou
+    100054: jixiangke
+    100056: kaiguan1
+    100058: kaiguan2
+    100060: kongzhimianban
+    100062: light
+    100064: light1
+    100066: light10
+    100068: light11
+    100070: light12
+    100072: light13
+    100074: light14
+    100076: light15
+    100078: light16
+    100080: light17
+    100082: light18
+    100084: light19
+    100086: light2
+    100088: light20
+    100090: light21
+    100092: light22
+    100094: light3
+    100096: light3 1
+    100098: light4
+    100100: light4 1
+    100102: light5
+    100104: light6
+    100106: light7
+    100108: light8
+    100110: light9
+    100112: luosi
+    100114: luosi 1
+    100116: luosi 2
+    100118: luosi 3
+    100120: luosi 4
+    100122: luosi1
+    100124: luosi1 1
+    100126: luosi1 10
+    100128: luosi1 11
+    100130: luosi1 12
+    100132: luosi1 2
+    100134: luosi1 3
+    100136: luosi1 4
+    100138: luosi1 5
+    100140: luosi1 6
+    100142: luosi1 7
+    100144: luosi1 8
+    100146: luosi1 9
+    100148: luosi10
+    100150: luosi11
+    100152: luosi12
+    100154: luosi13
+    100156: luosi14
+    100158: luosi15
+    100160: luosi16
+    100162: luosi17
+    100164: luosi18
+    100166: luosi19
+    100168: luosi2
+    100170: luosi2 1
+    100172: luosi2 2
+    100174: luosi2 3
+    100176: luosi20
+    100178: luosi21
+    100180: luosi22
+    100182: luosi23
+    100184: luosi24
+    100186: luosi25
+    100188: luosi26
+    100190: luosi27
+    100192: luosi28
+    100194: luosi29
+    100196: luosi3
+    100198: luosi30
+    100200: luosi31
+    100202: luosi34
+    100204: luosi35
+    100206: luosi4
+    100208: luosi40
+    100210: luosi41
+    100212: luosi42
+    100214: luosi43
+    100216: luosi44
+    100218: luosi45
+    100220: luosi46
+    100222: luosi47
+    100224: luosi48
+    100226: luosi49
+    100228: luosi5
+    100230: luosi50
+    100232: luosi50 1
+    100234: luosi51
+    100236: luosi6
+    100238: luosi7
+    100240: luosi8
+    100242: luosi9
+    100244: MB
+    100246: MB 1
+    100248: neicun
+    100250: Object100
+    100252: Object101
+    100254: Object102
+    100256: Object103
+    100258: Object104
+    100260: Object105
+    100262: Object106
+    100264: Object107
+    100266: Object64
+    100268: Object72
+    100270: PCIe_gutaiyingpanzhijia
+    100272: PCIe_gutaiyingpanzhijia1
+    100274: PCIe_gutaiyingpanzhijia2
+    100276: PCIe_gutaiyingpanzhijia3
+    100278: PCIe_gutaiyingpanzhijia4
+    100280: PCIEka
+    100282: PCIEka1
+    100284: PCIEka2
+    100286: PCIEka_light
+    100288: PCIEka_middle
+    100290: PCIEka_right
+    100292: PCIEkaanzhuangwei1
+    100294: PCIEkaanzhuangwei2
+    100296: PCIEkaanzhuangwei3
+    100298: PCIEkaanzhuangwei4
+    100300: PCIEkaanzhuangwei5
+    100302: PCIEkaanzhuangwei6
+    100304: pCube219
+    100306: pCube219 1
+    100308: pCube219 2
+    100310: pCube219 3
+    100312: pCube233
+    100314: pCube233 1
+    100316: pCube233 2
+    100318: pCube233 3
+    100320: pCube24
+    100322: pCube25
+    100324: pCube258
+    100326: pCube258 1
+    100328: pCube258 2
+    100330: pCube258 3
+    100332: pCube259
+    100334: pCube259 1
+    100336: pCube259 2
+    100338: pCube259 3
+    100340: pCube26
+    100342: pCube27
+    100344: pCube270
+    100346: pCube273
+    100348: pCube275
+    100350: pCube28
+    100352: pCube29
+    100354: pCube33
+    100356: pCube35
+    100358: pCube37
+    100360: polySurface28784
+    100362: polySurface28784 1
+    100364: polySurface28784 2
+    100366: polySurface28784 3
+    100368: polySurface28785
+    100370: polySurface28785 1
+    100372: polySurface28785 2
+    100374: polySurface28785 3
+    100376: polySurface28786
+    100378: polySurface28786 1
+    100380: polySurface28786 2
+    100382: polySurface28786 3
+    100384: polySurface34
+    100386: polySurface34 1
+    100388: polySurface34 2
+    100390: polySurface34 3
+    100392: polySurface35
+    100394: polySurface35 1
+    100396: polySurface35 2
+    100398: polySurface35 3
+    100400: polySurface36
+    100402: polySurface36 1
+    100404: polySurface36 2
+    100406: polySurface36 3
+    100408: polySurface37
+    100410: polySurface37 1
+    100412: polySurface37 2
+    100414: polySurface37 3
+    100416: qiankongban
+    100418: //RootNode
+    100420: sanruoqi
+    100422: suokou1
+    100424: suokou2
+    100426: USBjiekou1
+    100428: USBjiekou2
+    100430: VGA
+    100432: waike
+    100434: waike1
+    100436: waike2
+    100438: waikuang
+    100440: waikuang 1
+    100442: waikuang_back
+    100444: waikuang_front
+    100446: waikuang_front 1
+    100448: waikuang_middle
+    100450: wangluo_zhuangtai_light
+    100452: xianshiqijiekou
+    100454: xitong_zhuangtai_light
+    100456: xitongfengshan
+    100458: xitongfengshan1
+    100460: xitongfengshan2
+    100462: xitongfengshan3
+    100464: xitongfengshan4
+    100466: xitongfengshan5
+    100468: yingpan
+    100470: yingpan 1
+    100472: yingpan 2
+    100474: yingpan 3
+    100476: yingpan 4
+    100478: yingpan 5
+    100480: yingpan 6
+    100482: yingpan 7
+    100484: yingpan 8
+    100486: yingpan 9
+    100488: yingpan_zhuantai_light
+    100490: yingpanzhijia1
+    100492: yingpanzhijia1 1
+    100494: yingpanzhijia1 2
+    100496: yingpanzhijia1 3
+    100498: yingpanzhijia1 4
+    100500: yingpanzhijia1 5
+    100502: yingpanzhijia1 6
+    100504: yingpanzhijia1 7
+    100506: yingpanzhijia1 8
+    100508: yingpanzhijia1 9
+    100510: yingpanzhijia10_3_1
+    100512: yingpanzhijia11
+    100514: yingpanzhijia12
+    100516: yingpanzhijia13
+    100518: yingpanzhijia14
+    100520: yingpanzhijia15
+    100522: yingpanzhijia16
+    100524: yingpanzhijia17
+    100526: yingpanzhijia18
+    100528: yingpanzhijia19
+    100530: yingpanzhijia1_3_1
+    100532: yingpanzhijia2
+    100534: yingpanzhijia2_3_1
+    100536: yingpanzhijia3_3_1
+    100538: yingpanzhijia4_3_1
+    100540: yingpanzhijia5_3_1
+    100542: yingpanzhijia6_3_1
+    100544: yingpanzhijia7_3_1
+    100546: yingpanzhijia8_3_1
+    100548: yingpanzhijia9_3_1
+    100550: yingpanzhijia_3_1
+    100552: zheng
+    100554: zhijia
+    400000: anniu
+    400002: anniu 1
+    400004: anniu 2
+    400006: anniu1
+    400008: anniu2
+    400010: chuankou
+    400012: CPU
+    400014: daoliufengzhao
+    400016: daoliufengzhao 1
+    400018: daoliufengzhao 2
+    400020: daoliufengzhao 3
+    400022: daoliufengzhao1
+    400024: daoliufengzhao2
+    400026: daoliufengzhao3
+    400028: daoliufengzhao4
+    400030: dianyuanmokuai
+    400032: dianyuanmokuai1
+    400034: dianyuanmokuai2
+    400036: diaoliufengzhao1
+    400038: diaoliufengzhao1 1
+    400040: diaoliufengzhao1 2
+    400042: dizuo
+    400044: group56
+    400046: guangqu
+    400048: guangqu 1
+    400050: houmian
+    400052: jiekou
+    400054: jixiangke
+    400056: kaiguan1
+    400058: kaiguan2
+    400060: kongzhimianban
+    400062: light
+    400064: light1
+    400066: light10
+    400068: light11
+    400070: light12
+    400072: light13
+    400074: light14
+    400076: light15
+    400078: light16
+    400080: light17
+    400082: light18
+    400084: light19
+    400086: light2
+    400088: light20
+    400090: light21
+    400092: light22
+    400094: light3
+    400096: light3 1
+    400098: light4
+    400100: light4 1
+    400102: light5
+    400104: light6
+    400106: light7
+    400108: light8
+    400110: light9
+    400112: luosi
+    400114: luosi 1
+    400116: luosi 2
+    400118: luosi 3
+    400120: luosi 4
+    400122: luosi1
+    400124: luosi1 1
+    400126: luosi1 10
+    400128: luosi1 11
+    400130: luosi1 12
+    400132: luosi1 2
+    400134: luosi1 3
+    400136: luosi1 4
+    400138: luosi1 5
+    400140: luosi1 6
+    400142: luosi1 7
+    400144: luosi1 8
+    400146: luosi1 9
+    400148: luosi10
+    400150: luosi11
+    400152: luosi12
+    400154: luosi13
+    400156: luosi14
+    400158: luosi15
+    400160: luosi16
+    400162: luosi17
+    400164: luosi18
+    400166: luosi19
+    400168: luosi2
+    400170: luosi2 1
+    400172: luosi2 2
+    400174: luosi2 3
+    400176: luosi20
+    400178: luosi21
+    400180: luosi22
+    400182: luosi23
+    400184: luosi24
+    400186: luosi25
+    400188: luosi26
+    400190: luosi27
+    400192: luosi28
+    400194: luosi29
+    400196: luosi3
+    400198: luosi30
+    400200: luosi31
+    400202: luosi34
+    400204: luosi35
+    400206: luosi4
+    400208: luosi40
+    400210: luosi41
+    400212: luosi42
+    400214: luosi43
+    400216: luosi44
+    400218: luosi45
+    400220: luosi46
+    400222: luosi47
+    400224: luosi48
+    400226: luosi49
+    400228: luosi5
+    400230: luosi50
+    400232: luosi50 1
+    400234: luosi51
+    400236: luosi6
+    400238: luosi7
+    400240: luosi8
+    400242: luosi9
+    400244: MB
+    400246: MB 1
+    400248: neicun
+    400250: Object100
+    400252: Object101
+    400254: Object102
+    400256: Object103
+    400258: Object104
+    400260: Object105
+    400262: Object106
+    400264: Object107
+    400266: Object64
+    400268: Object72
+    400270: PCIe_gutaiyingpanzhijia
+    400272: PCIe_gutaiyingpanzhijia1
+    400274: PCIe_gutaiyingpanzhijia2
+    400276: PCIe_gutaiyingpanzhijia3
+    400278: PCIe_gutaiyingpanzhijia4
+    400280: PCIEka
+    400282: PCIEka1
+    400284: PCIEka2
+    400286: PCIEka_light
+    400288: PCIEka_middle
+    400290: PCIEka_right
+    400292: PCIEkaanzhuangwei1
+    400294: PCIEkaanzhuangwei2
+    400296: PCIEkaanzhuangwei3
+    400298: PCIEkaanzhuangwei4
+    400300: PCIEkaanzhuangwei5
+    400302: PCIEkaanzhuangwei6
+    400304: pCube219
+    400306: pCube219 1
+    400308: pCube219 2
+    400310: pCube219 3
+    400312: pCube233
+    400314: pCube233 1
+    400316: pCube233 2
+    400318: pCube233 3
+    400320: pCube24
+    400322: pCube25
+    400324: pCube258
+    400326: pCube258 1
+    400328: pCube258 2
+    400330: pCube258 3
+    400332: pCube259
+    400334: pCube259 1
+    400336: pCube259 2
+    400338: pCube259 3
+    400340: pCube26
+    400342: pCube27
+    400344: pCube270
+    400346: pCube273
+    400348: pCube275
+    400350: pCube28
+    400352: pCube29
+    400354: pCube33
+    400356: pCube35
+    400358: pCube37
+    400360: polySurface28784
+    400362: polySurface28784 1
+    400364: polySurface28784 2
+    400366: polySurface28784 3
+    400368: polySurface28785
+    400370: polySurface28785 1
+    400372: polySurface28785 2
+    400374: polySurface28785 3
+    400376: polySurface28786
+    400378: polySurface28786 1
+    400380: polySurface28786 2
+    400382: polySurface28786 3
+    400384: polySurface34
+    400386: polySurface34 1
+    400388: polySurface34 2
+    400390: polySurface34 3
+    400392: polySurface35
+    400394: polySurface35 1
+    400396: polySurface35 2
+    400398: polySurface35 3
+    400400: polySurface36
+    400402: polySurface36 1
+    400404: polySurface36 2
+    400406: polySurface36 3
+    400408: polySurface37
+    400410: polySurface37 1
+    400412: polySurface37 2
+    400414: polySurface37 3
+    400416: qiankongban
+    400418: //RootNode
+    400420: sanruoqi
+    400422: suokou1
+    400424: suokou2
+    400426: USBjiekou1
+    400428: USBjiekou2
+    400430: VGA
+    400432: waike
+    400434: waike1
+    400436: waike2
+    400438: waikuang
+    400440: waikuang 1
+    400442: waikuang_back
+    400444: waikuang_front
+    400446: waikuang_front 1
+    400448: waikuang_middle
+    400450: wangluo_zhuangtai_light
+    400452: xianshiqijiekou
+    400454: xitong_zhuangtai_light
+    400456: xitongfengshan
+    400458: xitongfengshan1
+    400460: xitongfengshan2
+    400462: xitongfengshan3
+    400464: xitongfengshan4
+    400466: xitongfengshan5
+    400468: yingpan
+    400470: yingpan 1
+    400472: yingpan 2
+    400474: yingpan 3
+    400476: yingpan 4
+    400478: yingpan 5
+    400480: yingpan 6
+    400482: yingpan 7
+    400484: yingpan 8
+    400486: yingpan 9
+    400488: yingpan_zhuantai_light
+    400490: yingpanzhijia1
+    400492: yingpanzhijia1 1
+    400494: yingpanzhijia1 2
+    400496: yingpanzhijia1 3
+    400498: yingpanzhijia1 4
+    400500: yingpanzhijia1 5
+    400502: yingpanzhijia1 6
+    400504: yingpanzhijia1 7
+    400506: yingpanzhijia1 8
+    400508: yingpanzhijia1 9
+    400510: yingpanzhijia10_3_1
+    400512: yingpanzhijia11
+    400514: yingpanzhijia12
+    400516: yingpanzhijia13
+    400518: yingpanzhijia14
+    400520: yingpanzhijia15
+    400522: yingpanzhijia16
+    400524: yingpanzhijia17
+    400526: yingpanzhijia18
+    400528: yingpanzhijia19
+    400530: yingpanzhijia1_3_1
+    400532: yingpanzhijia2
+    400534: yingpanzhijia2_3_1
+    400536: yingpanzhijia3_3_1
+    400538: yingpanzhijia4_3_1
+    400540: yingpanzhijia5_3_1
+    400542: yingpanzhijia6_3_1
+    400544: yingpanzhijia7_3_1
+    400546: yingpanzhijia8_3_1
+    400548: yingpanzhijia9_3_1
+    400550: yingpanzhijia_3_1
+    400552: zheng
+    400554: zhijia
+    2100000: blinn20
+    2100002: blinn15
+    2100004: lambert1
+    2100006: blinn11
+    2100008: blinn9
+    2100010: blinn18
+    2100012: blinn30
+    2100014: blinn19
+    2100016: blinn22
+    2100018: blinn21
+    2100020: blinn26
+    2100022: blinn16
+    2100024: blinn14
+    2100026: blinn23
+    2100028: Standard_24
+    2100030: blinn25
+    2100032: blinn7
+    2100034: blinn35
+    2100036: blinn3
+    2100038: blinn24
+    2100040: blinn1
+    2100042: blinn28
+    2300000: anniu
+    2300002: anniu 1
+    2300004: anniu 2
+    2300006: chuankou
+    2300008: CPU
+    2300010: daoliufengzhao
+    2300012: daoliufengzhao 1
+    2300014: daoliufengzhao 2
+    2300016: daoliufengzhao 3
+    2300018: dianyuanmokuai1
+    2300020: dianyuanmokuai2
+    2300022: diaoliufengzhao1
+    2300024: diaoliufengzhao1 1
+    2300026: diaoliufengzhao1 2
+    2300028: dizuo
+    2300030: group56
+    2300032: guangqu 1
+    2300034: jiekou
+    2300036: kaiguan1
+    2300038: kaiguan2
+    2300040: light
+    2300042: light1
+    2300044: light10
+    2300046: light11
+    2300048: light12
+    2300050: light13
+    2300052: light14
+    2300054: light15
+    2300056: light16
+    2300058: light17
+    2300060: light18
+    2300062: light19
+    2300064: light2
+    2300066: light20
+    2300068: light21
+    2300070: light22
+    2300072: light3
+    2300074: light3 1
+    2300076: light4
+    2300078: light4 1
+    2300080: light5
+    2300082: light6
+    2300084: light7
+    2300086: light8
+    2300088: light9
+    2300090: luosi
+    2300092: luosi1
+    2300094: luosi1 1
+    2300096: luosi1 10
+    2300098: luosi1 11
+    2300100: luosi1 12
+    2300102: luosi1 2
+    2300104: luosi1 3
+    2300106: luosi1 4
+    2300108: luosi1 5
+    2300110: luosi1 6
+    2300112: luosi1 7
+    2300114: luosi1 8
+    2300116: luosi1 9
+    2300118: luosi10
+    2300120: luosi11
+    2300122: luosi12
+    2300124: luosi13
+    2300126: luosi14
+    2300128: luosi15
+    2300130: luosi16
+    2300132: luosi17
+    2300134: luosi18
+    2300136: luosi19
+    2300138: luosi2
+    2300140: luosi2 1
+    2300142: luosi2 2
+    2300144: luosi2 3
+    2300146: luosi20
+    2300148: luosi21
+    2300150: luosi22
+    2300152: luosi23
+    2300154: luosi24
+    2300156: luosi25
+    2300158: luosi26
+    2300160: luosi27
+    2300162: luosi28
+    2300164: luosi29
+    2300166: luosi3
+    2300168: luosi30
+    2300170: luosi31
+    2300172: luosi34
+    2300174: luosi35
+    2300176: luosi4
+    2300178: luosi40
+    2300180: luosi41
+    2300182: luosi42
+    2300184: luosi43
+    2300186: luosi44
+    2300188: luosi45
+    2300190: luosi46
+    2300192: luosi47
+    2300194: luosi48
+    2300196: luosi49
+    2300198: luosi5
+    2300200: luosi50
+    2300202: luosi50 1
+    2300204: luosi51
+    2300206: luosi6
+    2300208: luosi7
+    2300210: luosi8
+    2300212: luosi9
+    2300214: MB 1
+    2300216: Object100
+    2300218: Object101
+    2300220: Object102
+    2300222: Object103
+    2300224: Object104
+    2300226: Object105
+    2300228: Object106
+    2300230: Object107
+    2300232: Object64
+    2300234: Object72
+    2300236: PCIEka
+    2300238: PCIEka1
+    2300240: PCIEka2
+    2300242: PCIEkaanzhuangwei1
+    2300244: PCIEkaanzhuangwei2
+    2300246: PCIEkaanzhuangwei3
+    2300248: PCIEkaanzhuangwei4
+    2300250: PCIEkaanzhuangwei5
+    2300252: PCIEkaanzhuangwei6
+    2300254: pCube219
+    2300256: pCube219 1
+    2300258: pCube219 2
+    2300260: pCube219 3
+    2300262: pCube233
+    2300264: pCube233 1
+    2300266: pCube233 2
+    2300268: pCube233 3
+    2300270: pCube24
+    2300272: pCube25
+    2300274: pCube258
+    2300276: pCube258 1
+    2300278: pCube258 2
+    2300280: pCube258 3
+    2300282: pCube259
+    2300284: pCube259 1
+    2300286: pCube259 2
+    2300288: pCube259 3
+    2300290: pCube26
+    2300292: pCube27
+    2300294: pCube270
+    2300296: pCube273
+    2300298: pCube275
+    2300300: pCube28
+    2300302: pCube29
+    2300304: pCube33
+    2300306: pCube35
+    2300308: pCube37
+    2300310: polySurface28784
+    2300312: polySurface28784 1
+    2300314: polySurface28784 2
+    2300316: polySurface28784 3
+    2300318: polySurface28785
+    2300320: polySurface28785 1
+    2300322: polySurface28785 2
+    2300324: polySurface28785 3
+    2300326: polySurface28786
+    2300328: polySurface28786 1
+    2300330: polySurface28786 2
+    2300332: polySurface28786 3
+    2300334: polySurface34
+    2300336: polySurface34 1
+    2300338: polySurface34 2
+    2300340: polySurface34 3
+    2300342: polySurface35
+    2300344: polySurface35 1
+    2300346: polySurface35 2
+    2300348: polySurface35 3
+    2300350: polySurface36
+    2300352: polySurface36 1
+    2300354: polySurface36 2
+    2300356: polySurface36 3
+    2300358: polySurface37
+    2300360: polySurface37 1
+    2300362: polySurface37 2
+    2300364: polySurface37 3
+    2300366: qiankongban
+    2300368: suokou1
+    2300370: suokou2
+    2300372: USBjiekou1
+    2300374: USBjiekou2
+    2300376: VGA
+    2300378: waike
+    2300380: waike1
+    2300382: waike2
+    2300384: waikuang 1
+    2300386: waikuang_back
+    2300388: waikuang_front 1
+    2300390: waikuang_middle
+    2300392: wangluo_zhuangtai_light
+    2300394: xianshiqijiekou
+    2300396: xitong_zhuangtai_light
+    2300398: yingpan
+    2300400: yingpan 1
+    2300402: yingpan 2
+    2300404: yingpan 3
+    2300406: yingpan 4
+    2300408: yingpan 5
+    2300410: yingpan 6
+    2300412: yingpan 7
+    2300414: yingpan 8
+    2300416: yingpan 9
+    2300418: yingpan_zhuantai_light
+    2300420: yingpanzhijia1
+    2300422: yingpanzhijia1 1
+    2300424: yingpanzhijia1 2
+    2300426: yingpanzhijia1 3
+    2300428: yingpanzhijia1 4
+    2300430: yingpanzhijia1 5
+    2300432: yingpanzhijia1 6
+    2300434: yingpanzhijia1 7
+    2300436: yingpanzhijia1 8
+    2300438: yingpanzhijia1 9
+    2300440: yingpanzhijia11
+    2300442: yingpanzhijia12
+    2300444: yingpanzhijia13
+    2300446: yingpanzhijia14
+    2300448: yingpanzhijia15
+    2300450: yingpanzhijia16
+    2300452: yingpanzhijia17
+    2300454: yingpanzhijia18
+    2300456: yingpanzhijia19
+    2300458: yingpanzhijia2
+    2300460: zheng
+    2300462: zhijia
+    3300000: anniu
+    3300002: anniu 1
+    3300004: anniu 2
+    3300006: chuankou
+    3300008: CPU
+    3300010: daoliufengzhao
+    3300012: daoliufengzhao 1
+    3300014: daoliufengzhao 2
+    3300016: daoliufengzhao 3
+    3300018: dianyuanmokuai1
+    3300020: dianyuanmokuai2
+    3300022: diaoliufengzhao1
+    3300024: diaoliufengzhao1 1
+    3300026: diaoliufengzhao1 2
+    3300028: dizuo
+    3300030: group56
+    3300032: guangqu 1
+    3300034: jiekou
+    3300036: kaiguan1
+    3300038: kaiguan2
+    3300040: light
+    3300042: light1
+    3300044: light10
+    3300046: light11
+    3300048: light12
+    3300050: light13
+    3300052: light14
+    3300054: light15
+    3300056: light16
+    3300058: light17
+    3300060: light18
+    3300062: light19
+    3300064: light2
+    3300066: light20
+    3300068: light21
+    3300070: light22
+    3300072: light3
+    3300074: light3 1
+    3300076: light4
+    3300078: light4 1
+    3300080: light5
+    3300082: light6
+    3300084: light7
+    3300086: light8
+    3300088: light9
+    3300090: luosi
+    3300092: luosi1
+    3300094: luosi1 1
+    3300096: luosi1 10
+    3300098: luosi1 11
+    3300100: luosi1 12
+    3300102: luosi1 2
+    3300104: luosi1 3
+    3300106: luosi1 4
+    3300108: luosi1 5
+    3300110: luosi1 6
+    3300112: luosi1 7
+    3300114: luosi1 8
+    3300116: luosi1 9
+    3300118: luosi10
+    3300120: luosi11
+    3300122: luosi12
+    3300124: luosi13
+    3300126: luosi14
+    3300128: luosi15
+    3300130: luosi16
+    3300132: luosi17
+    3300134: luosi18
+    3300136: luosi19
+    3300138: luosi2
+    3300140: luosi2 1
+    3300142: luosi2 2
+    3300144: luosi2 3
+    3300146: luosi20
+    3300148: luosi21
+    3300150: luosi22
+    3300152: luosi23
+    3300154: luosi24
+    3300156: luosi25
+    3300158: luosi26
+    3300160: luosi27
+    3300162: luosi28
+    3300164: luosi29
+    3300166: luosi3
+    3300168: luosi30
+    3300170: luosi31
+    3300172: luosi34
+    3300174: luosi35
+    3300176: luosi4
+    3300178: luosi40
+    3300180: luosi41
+    3300182: luosi42
+    3300184: luosi43
+    3300186: luosi44
+    3300188: luosi45
+    3300190: luosi46
+    3300192: luosi47
+    3300194: luosi48
+    3300196: luosi49
+    3300198: luosi5
+    3300200: luosi50
+    3300202: luosi50 1
+    3300204: luosi51
+    3300206: luosi6
+    3300208: luosi7
+    3300210: luosi8
+    3300212: luosi9
+    3300214: MB 1
+    3300216: Object100
+    3300218: Object101
+    3300220: Object102
+    3300222: Object103
+    3300224: Object104
+    3300226: Object105
+    3300228: Object106
+    3300230: Object107
+    3300232: Object64
+    3300234: Object72
+    3300236: PCIEka
+    3300238: PCIEka1
+    3300240: PCIEka2
+    3300242: PCIEkaanzhuangwei1
+    3300244: PCIEkaanzhuangwei2
+    3300246: PCIEkaanzhuangwei3
+    3300248: PCIEkaanzhuangwei4
+    3300250: PCIEkaanzhuangwei5
+    3300252: PCIEkaanzhuangwei6
+    3300254: pCube219
+    3300256: pCube219 1
+    3300258: pCube219 2
+    3300260: pCube219 3
+    3300262: pCube233
+    3300264: pCube233 1
+    3300266: pCube233 2
+    3300268: pCube233 3
+    3300270: pCube24
+    3300272: pCube25
+    3300274: pCube258
+    3300276: pCube258 1
+    3300278: pCube258 2
+    3300280: pCube258 3
+    3300282: pCube259
+    3300284: pCube259 1
+    3300286: pCube259 2
+    3300288: pCube259 3
+    3300290: pCube26
+    3300292: pCube27
+    3300294: pCube270
+    3300296: pCube273
+    3300298: pCube275
+    3300300: pCube28
+    3300302: pCube29
+    3300304: pCube33
+    3300306: pCube35
+    3300308: pCube37
+    3300310: polySurface28784
+    3300312: polySurface28784 1
+    3300314: polySurface28784 2
+    3300316: polySurface28784 3
+    3300318: polySurface28785
+    3300320: polySurface28785 1
+    3300322: polySurface28785 2
+    3300324: polySurface28785 3
+    3300326: polySurface28786
+    3300328: polySurface28786 1
+    3300330: polySurface28786 2
+    3300332: polySurface28786 3
+    3300334: polySurface34
+    3300336: polySurface34 1
+    3300338: polySurface34 2
+    3300340: polySurface34 3
+    3300342: polySurface35
+    3300344: polySurface35 1
+    3300346: polySurface35 2
+    3300348: polySurface35 3
+    3300350: polySurface36
+    3300352: polySurface36 1
+    3300354: polySurface36 2
+    3300356: polySurface36 3
+    3300358: polySurface37
+    3300360: polySurface37 1
+    3300362: polySurface37 2
+    3300364: polySurface37 3
+    3300366: qiankongban
+    3300368: suokou1
+    3300370: suokou2
+    3300372: USBjiekou1
+    3300374: USBjiekou2
+    3300376: VGA
+    3300378: waike
+    3300380: waike1
+    3300382: waike2
+    3300384: waikuang 1
+    3300386: waikuang_back
+    3300388: waikuang_front 1
+    3300390: waikuang_middle
+    3300392: wangluo_zhuangtai_light
+    3300394: xianshiqijiekou
+    3300396: xitong_zhuangtai_light
+    3300398: yingpan
+    3300400: yingpan 1
+    3300402: yingpan 2
+    3300404: yingpan 3
+    3300406: yingpan 4
+    3300408: yingpan 5
+    3300410: yingpan 6
+    3300412: yingpan 7
+    3300414: yingpan 8
+    3300416: yingpan 9
+    3300418: yingpan_zhuantai_light
+    3300420: yingpanzhijia1
+    3300422: yingpanzhijia1 1
+    3300424: yingpanzhijia1 2
+    3300426: yingpanzhijia1 3
+    3300428: yingpanzhijia1 4
+    3300430: yingpanzhijia1 5
+    3300432: yingpanzhijia1 6
+    3300434: yingpanzhijia1 7
+    3300436: yingpanzhijia1 8
+    3300438: yingpanzhijia1 9
+    3300440: yingpanzhijia11
+    3300442: yingpanzhijia12
+    3300444: yingpanzhijia13
+    3300446: yingpanzhijia14
+    3300448: yingpanzhijia15
+    3300450: yingpanzhijia16
+    3300452: yingpanzhijia17
+    3300454: yingpanzhijia18
+    3300456: yingpanzhijia19
+    3300458: yingpanzhijia2
+    3300460: zheng
+    3300462: zhijia
+    4300000: pCube259
+    4300002: pCube258
+    4300004: pCube233
+    4300006: pCube219
+    4300008: pCube259
+    4300010: pCube258
+    4300012: pCube233
+    4300014: pCube219
+    4300016: pCube259
+    4300018: pCube258
+    4300020: pCube233
+    4300022: pCube219
+    4300024: pCube259
+    4300026: pCube258
+    4300028: pCube233
+    4300030: pCube219
+    4300032: yingpanzhijia2
+    4300034: yingpanzhijia1
+    4300036: yingpan
+    4300038: luosi4
+    4300040: luosi3
+    4300042: luosi2
+    4300044: luosi1
+    4300046: light21
+    4300048: light22
+    4300050: yingpanzhijia11
+    4300052: yingpanzhijia1
+    4300054: yingpan
+    4300056: luosi7
+    4300058: luosi6
+    4300060: luosi5
+    4300062: luosi1
+    4300064: light3
+    4300066: light4
+    4300068: yingpanzhijia1
+    4300070: yingpan
+    4300072: luosi10
+    4300074: luosi9
+    4300076: luosi8
+    4300078: luosi1
+    4300080: light5
+    4300082: light6
+    4300084: yingpanzhijia12
+    4300086: yingpanzhijia1
+    4300088: yingpan
+    4300090: luosi13
+    4300092: luosi12
+    4300094: luosi11
+    4300096: luosi1
+    4300098: light7
+    4300100: light8
+    4300102: yingpanzhijia13
+    4300104: yingpanzhijia14
+    4300106: yingpanzhijia1
+    4300108: yingpan
+    4300110: luosi16
+    4300112: luosi15
+    4300114: luosi14
+    4300116: luosi1
+    4300118: light9
+    4300120: light10
+    4300122: yingpanzhijia1
+    4300124: yingpan
+    4300126: luosi19
+    4300128: luosi18
+    4300130: luosi17
+    4300132: luosi1
+    4300134: light11
+    4300136: light12
+    4300138: yingpanzhijia16
+    4300140: yingpanzhijia1
+    4300142: yingpan
+    4300144: luosi22
+    4300146: luosi21
+    4300148: luosi20
+    4300150: luosi1
+    4300152: light13
+    4300154: light14
+    4300156: yingpanzhijia15
+    4300158: yingpanzhijia1
+    4300160: yingpan
+    4300162: luosi25
+    4300164: luosi24
+    4300166: luosi23
+    4300168: luosi1
+    4300170: light15
+    4300172: light16
+    4300174: yingpanzhijia18
+    4300176: yingpanzhijia1
+    4300178: yingpan
+    4300180: luosi28
+    4300182: luosi27
+    4300184: luosi26
+    4300186: luosi1
+    4300188: light17
+    4300190: light18
+    4300192: yingpanzhijia17
+    4300194: yingpanzhijia19
+    4300196: yingpanzhijia1
+    4300198: yingpan
+    4300200: luosi31
+    4300202: luosi30
+    4300204: luosi29
+    4300206: luosi1
+    4300208: light19
+    4300210: light20
+    4300212: waikuang_middle
+    4300214: waikuang_back
+    4300216: waikuang_front
+    4300218: luosi1
+    4300220: luosi2
+    4300222: group56
+    4300224: zhijia
+    4300226: luosi34
+    4300228: luosi35
+    4300230: guangqu
+    4300232: anniu
+    4300234: light
+    4300236: USBjiekou1
+    4300238: USBjiekou2
+    4300240: xianshiqijiekou
+    4300242: luosi1
+    4300244: luosi2
+    4300246: yingpan_zhuantai_light
+    4300248: wangluo_zhuangtai_light
+    4300250: xitong_zhuangtai_light
+    4300252: luosi40
+    4300254: luosi41
+    4300256: luosi42
+    4300258: luosi43
+    4300260: qiankongban
+    4300262: waikuang
+    4300264: Object64
+    4300266: Object72
+    4300268: pCube24
+    4300270: Object100
+    4300272: Object101
+    4300274: pCube28
+    4300276: Object102
+    4300278: Object103
+    4300280: pCube26
+    4300282: Object104
+    4300284: Object105
+    4300286: pCube27
+    4300288: Object106
+    4300290: Object107
+    4300292: pCube25
+    4300294: pCube29
+    4300296: waike
+    4300298: light1
+    4300300: light2
+    4300302: light3
+    4300304: light4
+    4300306: dianyuanmokuai1
+    4300308: dianyuanmokuai2
+    4300310: kaiguan1
+    4300312: kaiguan2
+    4300314: PCIEka2
+    4300316: luosi48
+    4300318: luosi49
+    4300320: diaoliufengzhao1
+    4300322: pCube275
+    4300324: pCube33
+    4300326: PCIEka1
+    4300328: diaoliufengzhao1
+    4300330: luosi46
+    4300332: luosi47
+    4300334: pCube273
+    4300336: pCube35
+    4300338: luosi45
+    4300340: luosi44
+    4300342: PCIEka
+    4300344: diaoliufengzhao1
+    4300346: pCube270
+    4300348: pCube37
+    4300350: suokou2
+    4300352: CPU
+    4300354: suokou1
+    4300356: dizuo
+    4300358: zheng
+    4300360: polySurface28785
+    4300362: polySurface28786
+    4300364: polySurface28784
+    4300366: polySurface34
+    4300368: polySurface35
+    4300370: polySurface37
+    4300372: polySurface36
+    4300374: daoliufengzhao
+    4300376: polySurface28785
+    4300378: polySurface28786
+    4300380: polySurface28784
+    4300382: polySurface34
+    4300384: polySurface35
+    4300386: polySurface37
+    4300388: polySurface36
+    4300390: daoliufengzhao
+    4300392: polySurface28785
+    4300394: polySurface28786
+    4300396: polySurface28784
+    4300398: polySurface34
+    4300400: polySurface35
+    4300402: polySurface37
+    4300404: polySurface36
+    4300406: daoliufengzhao
+    4300408: polySurface28785
+    4300410: polySurface28786
+    4300412: polySurface28784
+    4300414: polySurface34
+    4300416: polySurface35
+    4300418: polySurface37
+    4300420: polySurface36
+    4300422: daoliufengzhao
+    4300424: luosi50
+    4300426: anniu
+    4300428: luosi50
+    4300430: anniu
+    4300432: waike2
+    4300434: waike1
+    4300436: MB
+    4300438: luosi
+    4300440: PCIEkaanzhuangwei2
+    4300442: PCIEkaanzhuangwei1
+    4300444: PCIEkaanzhuangwei3
+    4300446: PCIEkaanzhuangwei4
+    4300448: PCIEkaanzhuangwei6
+    4300450: PCIEkaanzhuangwei5
+    4300452: jiekou
+    4300454: chuankou
+    4300456: VGA
+    4300458: luosi1
+    4300460: luosi2
+    4300462: luosi51
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

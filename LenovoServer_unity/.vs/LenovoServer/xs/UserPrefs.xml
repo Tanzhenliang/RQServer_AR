@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{82FD40A1-EABF-D344-9545-3F6B65330437}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScaleAndRotate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScaleAndRotate.cs" Line="57" Column="37" />
+      <File FileName="Assets/Scripts/ButtonEvent.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LenovoServer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44418b87-4eba-4590-8d28-f997e3251c01" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
